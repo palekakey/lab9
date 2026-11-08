@@ -1,0 +1,6 @@
+﻿  lab9bid262komarov.c
+C:\Users\HOME\source\repos\lab9\lab9\lab9bid262komarov.c(148,15): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char *"
+      C:\Users\HOME\source\repos\lab9\lab9\lab9bid262komarov.c(148,15):
+      рекомендуется использовать "%hhd" в строке форматирования
+  
+  lab9.vcxproj -> C:\Users\HOME\source\repos\lab9\x64\Debug\lab9.exe
